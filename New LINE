@@ -1,0 +1,1335 @@
+
+<!DOCTYPE html>
+<HTML dir='ltr'>
+<head>
+<!-- [ Meta Tag SEO ] -->
+<meta charset='utf-8'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta content='blogger' name='generator'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link href='http://csearlina.blogspot.co.id/' rel='openid.delegate'/>
+<link href='http://csearlina.blogspot.co.id/' rel='canonical'/>
+<title>New Line</title>
+<meta content='New Line Responsive Blogger Template' name='description'/>
+<script type='application/ld+json'>{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://csearlina.blogspot.co.id/", "potentialAction": { "@type": "SearchAction", "target": "http://csearlina.blogspot.co.id/?q={search_term}", "query-input": "required name=search_term" } }</script>
+<meta content='Berbagi Informasi Menarik Seputar Internet' name='keywords'/>
+<link href='http://csearlina.blogspot.co.id/feeds/posts/default' rel='alternate' title='New Line - Atom' type='application/atom+xml'/>
+<link href='http://csearlina.blogspot.co.id/feeds/posts/default?alt=rss' rel='alternate' title='New Line - RSS' type='application/rss+xml'/>
+<link href='http://www.blogger.com/feeds/3010081114343522120/posts/default' rel='alternate' title='New Line - Atom' type='application/atom+xml'/>
+<link href='http://csearlina.blogspot.co.id/' hreflang='x-default' rel='alternate'/>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://plus.google.com/107538075507319415040/posts' rel='publisher'/>
+<link href='https://plus.google.com/107538075507319415040/about' rel='author'/>
+<link href='https://plus.google.com/107538075507319415040' rel='me'/>
+<meta content='h37JJmzpDbieMZUy_8l1CjjJA4iDG0UrBRso_e8dalY' name='google-site-verification'/>
+<meta content='xxxxx' name='msvalidate.01'/>
+<meta content='xxxxx' name='alexaVerifyID'/>
+<meta content='Indonesia' name='geo.placename'/>
+<meta content='Amelia Putri' name='Author'/>
+<meta content='general' name='rating'/>
+<meta content='id' name='geo.country'/>
+<!-- [ Social Media Meta Tag ] -->
+<meta content='New Line' property='og:title'/>
+<meta content='website' property='og:type'/>
+<meta content='http://csearlina.blogspot.com/' property='og:url'/>
+<meta content='http://csearlina.blogspot.co.id/favicon.ico' property='og:image'/>
+<meta content='New Line Responsive Blogger Template' property='og:description'/>
+<meta content='New Line' property='og:site_name'/>
+<meta content='562901580420523' property='fb:app_id'/>
+<meta content='100005787193074' property='fb:admins'/>
+<meta content='en_US' property='og:locale'/>
+<meta content='en_GB' property='og:locale:alternate'/>
+<meta content='id_ID' property='og:locale:alternate'/>
+<meta content='summary' name='twitter:card'/>
+<meta content='New Line' name='twitter:title'/>
+<meta content='@ArlinaDesign' name='twitter:site'/>
+<meta content='@ArlinaDesign' name='twitter:creator'/>
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/3899416659-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3010081114343522120&zx=18edb81a-e3b5-46a4-ab90-617cff299a18' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+Template Info
+Name             : New Line Pro Responsive Blogger Template
+Theme Published  : 05-01-2016
+Type             : Personal Blog
+Style            : Minimalist
+Theme Color      : Light
+Designer         : Arlina Design
+Designer url     : www.arlinadzgn.com
+Thanks to        : All supported
+License          : Premium
+*/
+/* CSS Reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+/* HTML5 */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;display:block;}*{margin:0;padding:0;}html{display:block;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{background:transparent;}table{border-collapse:collapse;border-spacing:0;}*,*:before, *:after {-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}ins{background:#fff;}
+/* Body Layout */
+body#layout ul,#layout ul {display:none;}
+body#layout #outer-wrapper, body#layout .post-inner, body#layout .sidebar, body#layout .sidebar-two {padding:0;}
+body#layout #wrapper, body#layout .post-inner, body#layout .sidebar-inner {padding:0;}
+body#layout .header-wrapper {margin-top:0;}
+body#layout #header {min-height:0px;width:100%;}
+body#layout #headerdua {width:30%;float:left;}
+body#layout #header-right {width:60%;float:right;}
+#layout,#layout .widget-content,#layout .add_widget {border:none;}
+body#layout .add_widget {border:1px solid #ddd;}
+#layout .add_widget a {color:#333;}
+#layout #header{min-height:0px;width:100%;margin:10px 0 0 0;}
+#layout #footer-wrapper .footer-column{width:33.33%;float:left}
+#layout #footer-wrapper #column1,#layout #footer-wrapper #column2{margin:0}
+#layout #main-wrapper{width:70%;float:left}
+#layout #sidebar-wrapper{width:30%;left:0;padding:0;float:right}
+#layout .draggable-widget .widget-wrap2 {background:#c1cfd9;}
+#layout #banner,#layout #banner2 {background-color:#444;padding:20px 0!important;margin-bottom:20px;}
+#layout #banner .widget,#layout #banner2 .widget{width:80%;margin:5px auto!important;overflow:hidden;float:none}
+#layout #banner .add_widget,#layout #banner2 .add_widget{width:80%;margin:5px auto!important;overflow:hidden;float:none}
+#footer-xwidget .footer-widget {width:31.7%;float:left;margin-left:10px;}
+#footer-wrapper {overflow:hidden;margin:0 auto 20px auto;padding:20px 0 0;}
+/* Layout */
+body {background:#f3f3f3;font-family:'Roboto',sans-serif;font-size:14px;font-weight:400;text-align:left;color:#333;margin:0;padding:0;}
+.navbar,.post-feeds,.feed-links{display:none;}.section,.widget{margin:0;padding:0;}strong,b{font-weight:bold;padding:0;}cite,em,i{font-style:italic;}a:link,a:visited {color:#555;text-decoration:none;transition:all .3s}a:hover,a:hover:visited {color:#f58220}a img{border:none;border-width:0;outline:none;}img{max-width:100%;vertical-align:middle;border:0;}abbr,acronym{border-bottom:1px dotted;cursor:help;}sup,sub{vertical-align:baseline;position:relative;top:-.4em;font-size:86%;}sub{top:.4em;}small{font-size:86%;}kbd{display:inline-block;font-size:90%;color:#3498db;}mark{background-color:#ffce00;color:#182025;}p,blockquote,pre,table,figure,hr,form,ol,ul,dl{margin:1.5em 0;}hr{height:1px;border:none;background-color:#999;}code,kbd,pre,samp{font-family:monospace,monospace;}
+pre{white-space:pre;word-wrap:normal;overflow:auto;}blockquote{display:block;position:relative;background-color:#f2dca7;color:#5c5545;border-radius:4px;margin:.75em 0;padding:10px 15px}blockquote:before{content:"";width:0;height:0;position:absolute;bottom:100%;left:15px;border:7px solid transparent;border-color:transparent transparent #f2dca7}blockquote a{color:#34495e;}*:focus {outline:0!important;}h1,h2,h3,h4,h5,h6{font-weight:700;line-height:normal;}h1{font-size:200%}h2{font-size:180%}h3{font-size:160%}h4{font-size:140%}h5{font-size:120%}h6{font-size:100%}
+.post-body h1{font-size:200%}.post-body h2{font-size:180%}.post-body h3{font-size:160%}.post-body h4{font-size:140%}.post-body h5{font-size:120%}.post-body h6{font-size:100%}
+input,button,select,textarea{font-size:100%;line-height:normal;vertical-align:baseline;}
+textarea{display:block;box-sizing:border-box;}
+input.placeholder_text,textarea.placeholder_text{color:#888}
+.post ul li span{position:relative;display:block;padding:0;margin:.5em 0 .5em 2em;text-decoration:none;}
+ol {counter-reset:li;list-style:none;padding:0;margin:0;}
+ol ol {margin: 0 0 0 2em;}
+.post ol li{position:relative;display:block;padding:0;margin:.5em 0 .5em 2em;background:#fff;text-decoration:none;}
+.post ol li:before {content:counter(li);counter-increment:li;position:absolute;left:-2.5em;height:2em;width:2em;text-align:center;}
+.post-body ul {position:relative;display:block;padding:0;margin:.5em 0 .5em 1.5em;text-decoration:none;}
+/* Post Table */
+.post-body table {width:100%;}
+.post-body table td,.post-body table caption{background-color:#fafafa;border:1px solid rgba(0,0,0,0.03);padding:10px;text-align:left;vertical-align:top}
+.post-body table th {border:1px solid rgba(0,0,0,0.03);padding:10px;text-align:left;vertical-align:top;}
+.post-body table.tr-caption-container {border:1px solid #e0761c;}
+.post-body th{font-weight:700;}
+.post-body table caption{border:none;font-style:italic;}
+.post-body td, .post-body th{vertical-align:top;text-align:left;font-size:13px;padding:3px 5px;border:1px solid #f58220;}
+.post-body th{background:#f58220;color:#fff;}
+.post-body th:hover{background:#e0761c;}
+.post-body td a{color:#444;}
+.post-body td a:hover{color:#e0761c;}
+.post-body table.tr-caption-container td {border:none;padding:8px;}
+.post-body table.tr-caption-container, .post-body table.tr-caption-container img, .post-body img {max-width:100%;height:auto;}
+.post-body li {list-style-type:square;}
+.post-body td.tr-caption {color:#666;font-size:80%;padding:0px 8px 8px !important;}
+.sr {visibility:hidden;width:0;height:0;}
+
+--></style>
+<style type='text/css'>
+/* Custom Cookies Info Dark */
+.cookie-choices-info{background-color:rgba(56,66,75,.97)!important;line-height:normal!important;top:initial!important;bottom:0!important;font-family:inherit!important;-webkit-transform:translateZ(0);}
+.cookie-choices-info .cookie-choices-text{font-size:14px!important;color:#cee6ea!important}
+.cookie-choices-info .cookie-choices-button{font-weight:normal!important;color:#fff!important;margin-left:5px!important;padding:3px 6px!important;background:#f64c3b!important;letter-spacing:.8px;transition:all .4s linear}
+.cookie-choices-info .cookie-choices-button:nth-child(2){background:#f68c2e!important;transition:all .4s linear}
+.cookie-choices-info .cookie-choices-button:hover,.cookie-choices-info .cookie-choices-button:nth-child(2):hover{background:#282f36!important;transition:all .1s linear}
+/* Fixed Layout */
+.CSS_LIGHTBOX {z-index:999999!important;}
+.CSS_LIGHTBOX_BG_MASK_TRANSPARENT {opacity:.95!important;}
+.CSS_LIGHTBOX_SCALED_IMAGE_IMG {width:auto!important;max-width:100%;box-shadow:0 0 10px rgba(0,0,0,0.1);}
+.CSS_LIGHTBOX_BTN_CLOSE {background: url('http://4.bp.blogspot.com/-9vBNlzkjRGU/VUlVTtzbolI/AAAAAAAAG-c/xBqHPFfMkzE/s1600/delete.png') no-repeat!important;width:32px!important;height:32px!important;top:20px!important;opacity:0.7;transition:all .3s;}
+.CSS_LIGHTBOX_BTN_CLOSE:hover{opacity:1;}
+.CSS_LIGHTBOX_BTN_CLOSE_POS {right:20px!important;}
+.quickedit,#ContactForm1 br {display:none}
+.post,.widget-content,.daftar-recent-post,#sidebar-wrapper h2, #sidebar-wrapper h3, #sidebar-wrapper h4,.breadcrumbs,#footer-wrapper,.banner .widget,.banner2 .widget,#blog-pager{}
+.banner .widget-content,.banner2 .widget-content{border:0}
+/* Template Wrapper */
+.maxwrap {max-width:920px;margin:0 auto;}
+#wrapper {max-width:920px;margin:0 auto;padding:0;overflow:hidden;}
+#content-wrapper {overflow:hidden;padding:0;}
+/* Contact Form */
+.mask,.contact-popup{display:none;-webkit-transform:translateZ(0);transform:translateZ(0);transition:all .3s ease-in-out;}
+.mask.active{display:block;position:fixed;top:0;left:0;background:rgba(0,0,0,0.25);width:100%;height:100%;z-index:110}
+.contact-popup.active{display:block;width:100%;position:fixed;top:20%;left:50%;margin-left:-120px;z-index:111;-webkit-transform:translateZ(0);transform:translateZ(0)}
+#ContactForm1{display:inline-block;background:#fff;position:relative;padding:20px;max-width:100%;border-radius:5px;box-shadow:0 2px 15px rgba(0,0,0,0.1);}
+#ContactForm1 h2{font-size:140%;color:#999;font-weight:400}
+.contact-form-widget{max-width:300px}
+span.closepopup{position:absolute;right:10px;top:10px;width:20px;height:20px;display:block;border-radius:100%;background:rgba(0,0,0,0);color:#444;font-size:11px;line-height:20px;font-weight:700;text-align:center;cursor:pointer;padding:0 0 0 1px;font-family:inherit;transition:all .1s}
+span.closepopup:hover{background:#f58220;color:#fff;}
+.contact-trigger{cursor:pointer;display:inline-block;border-radius:3px;margin:5px;padding:10px 15px;background:#41474c;color:#fff;position:absolute;right:13px;top:13px;transition:all .3s ease-in-out;}
+.contact-trigger:hover{background:#4c5358;color:#fff;}
+#ContactForm1_contact-form-email,#ContactForm1_contact-form-name{width:100%;max-width:100%;height:auto;margin:10px auto;padding:12px;background:#f5f5f5;color:#444;border:1px solid transparent;transition:all .5s ease-out}
+#ContactForm1_contact-form-email-message{width:100%;max-width:100%;margin:10px 0;padding:12px;background:#f5f5f5;color:#444;border:1px solid transparent;transition:all 0.5s ease-out}
+#ContactForm1_contact-form-name:focus, #ContactForm1_contact-form-email:focus, #ContactForm1_contact-form-email-message:focus{outline:none;background:#fff;color:#444;box-shadow:none;border:1px solid rgba(0,0,0,0.1);}
+#ContactForm1_contact-form-submit{display:inline-block;width:100%;background:#f58220;color:#fff;margin:10px auto;vertical-align:middle;cursor:pointer;padding:0;height:40px;font-weight:700;font-size:14px;text-align:center;text-transform:uppercase;letter-spacing:.5px;outline:0;border:0;transition:all .6s ease}
+#ContactForm1_contact-form-submit:hover {background:#4c5358;color:#fff;}
+#ContactForm1 p{margin:0}
+#ContactForm1_contact-form-error-message, #ContactForm1_contact-form-success-message{width:100%;margin-top:35px;}
+.contact-form-error-message-with-border {border:none;box-shadow:none;padding:5px 0;}
+.contact-form-success-message {border:none;box-shadow:none;}
+/* Top Wrapper */
+.top-wrap-head{margin:auto;position:relative;height:29px;background:#fff;}
+.top-wrap-head .maxwrap{background:#fafafa;height:29px;overflow:hidden;border-bottom:1px solid rgba(0,0,0,0.03);border-left:1px solid rgba(0,0,0,0.03);border-right:1px solid rgba(0,0,0,0.03)}
+#breakingnews{width:100%;max-width:65%;display:inline-flex;margin:0 auto;line-height:29px;height:29px;overflow:hidden;font-size:13px;font-weight:700}
+#breakingnews .tulisbreaking{display:block;padding:0 10px;font-size:11px;font-weight:700;height:29px;line-height:29px;float:left;text-align:center;color:#555;background-color:#fff;border-right:1px solid rgba(0,0,0,0.03);text-transform:uppercase}
+#breakingnews .tulisred{display:block;padding:0 10px;font-size:11px;font-weight:700;height:29px;line-height:29px;float:left;text-align:center;color:#fff;background-color:#f58220;text-transform:uppercase}
+#recentbreaking{float:left;margin:0 0 0 10px;font-size:11px;color:#666}
+#recentbreaking ul,#recentbreaking li{list-style:none;margin:0;padding:0}
+#recentbreaking li a{color:#666}#recentbreaking li a:hover{color:#444}
+#header-sosmed{position:relative;float:right;}
+#header-sosmed .widget-content{background:transparent;margin:0;padding:0;overflow:hidden}
+#header-sosmed ul{margin:0}
+#header-sosmed li{float:right;padding:0}
+#header-sosmed li a{display:block;width:30px;height:30px;border-left:1px solid rgba(0,0,0,0.03);background:url(http://4.bp.blogspot.com/-JU-LuKxT-tM/Vorq9MKYuVI/AAAAAAAAA8g/NwJt0cRtvP0/s1600/newlinesosmed.png) no-repeat #fff;text-indent:-9999px;transition:background .3s}
+#header-sosmed .Twitter a:hover{background-color:#40BFF4;background-position:0 -56px}
+#header-sosmed .Facebook a{background-position:-29px 0}
+#header-sosmed .Facebook a:hover{background-color:#5C82D0;background-position:-29px -56px}
+#header-sosmed .GooglePlus a{background-position:-58px 0}
+#header-sosmed .GooglePlus:hover a{background-color:#EA5D4B;background-position:-58px -56px}
+#header-sosmed .Instagram a{background-position:-87px 0}
+#header-sosmed .Instagram a:hover{background-color:#548BB5;background-position:-87px -56px}
+/* Search Form */
+.menusearch{background:#f5f5f5;display:block;float:right;border:0;width:100%;max-width:400px;line-height:44px;margin:12px 0 0 0;border-radius:4px;}
+.searchform{position:relative;padding:0;margin:0;color:#999;overflow:hidden;border-radius:20px;transition:all .6s}
+.searchform:hover,.searchform:active{color:#222;outline:0;}
+.searchform input{color:#999;padding:0;margin:0;}
+.searchform input:focus{color:#222;}
+.searchform .searchfield{background:transparent;border:0;outline:none;width:80%;padding:15px;font-size:95%;}
+.ico-mglass{position:absolute;display:inline-block;background:#f8f8f8;height:6px;width:6px;right:22px;top:18px;text-align:center;box-sizing:initial;cursor:pointer;border-radius:100%;border:2px solid #999}
+.ico-mglass:after{content:"";height:2px;width:6px;background:#999;position:absolute;top:7px;left:5px;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}
+#searchsubmit{position:absolute;background:transparent;border:0;padding:8px 16px;cursor:pointer;right:10px;z-index:2}
+#searchsubmit:hover,#searchsubmit:active{cursor:pointer;outline:none}
+/* Arlina Header Wrapper */
+#header{background:#fff;position:relative;display:block;padding:25px 20px;overflow:hidden;color:#222}
+#header .title{font-size:240%;margin:0;padding:0 0 10px;display:inline-block;width:100%;max-width:310px}
+#header .title a {color:#555;transition:all .6s}
+#header .title a:hover {color:#f58220;}
+#header p.description{font-size:110%;margin:0;display:inline-block}
+.header img,.header-right img {display:block;}
+#headerdua {float:left;max-width:45%;}
+.header-right img {max-height:60px;}
+.header-right{float:right;padding:0;overflow:hidden;margin:0;max-width:768px;}
+/* Main Navigation */
+#navigation-hype{background:#4c5358;font-size:0;white-space:nowrap;letter-spacing:.5px;margin:0 auto 20px auto}
+#navigation-hype ul.menus{height:auto;overflow:hidden;position:absolute;z-index:99;display:none}
+#navigation-hype a{display:block;padding:22px 14px;text-decoration:none;color:#fff;text-transform:uppercase;}
+#navigation-hype ul,#navigation-hype li {margin:0 auto;padding:0;list-style:none}
+#navigation-hype li {display:inline-block;position:relative;font-size:13px;font-weight:700;}
+#navigation-hype li.indie a{background:rgba(0,0,0,0.15);padding:22px}
+#navigation-hype li:hover.indie,#navigation-hype li:hover.indie a{background:rgba(0,0,0,.15)}
+#navigation-hype input {display:none;margin:0;padding:0;width:80px;height:45px;opacity:0;cursor:pointer}
+#navigation-hype label {display:none;width:55px;height:48px;line-height:48px;text-align:center}
+#navigation-hype label span {font-size:16px;position:absolute;left:55px}
+#navigation-hype ul.menus li {display:block;width:100%;text-transform:none;text-shadow:none;}
+#navigation-hype ul.menus a {color:#ec3838;line-height:55px}
+#navigation-hype li a:hover {background:rgba(0,0,0,.15);color:#fff;}
+#navigation-hype ul.menus a:hover {background:rgba(0,0,0,.15);color:#fff;}
+#navigation-hype li ul{visibility:hidden;opacity:0;background:#fff;margin:0;width:150px;height:auto;position:absolute;top:100%;left:0;z-index:10;box-shadow:0 4px 15px -2px rgba(0,0,0,0.1);}
+#navigation-hype li:hover ul.menus,#navigation-hype li:hover > ul{visibility:visible;opacity:1;}
+#navigation-hype li li {display:block;float:none;font-size:13px;border-bottom:1px solid #f5f5f5;}
+#navigation-hype li li:last-child {border:0;}
+#navigation-hype li ul ul {left:100%;top:0}
+#navigation-hype li li > a{background:#fff;color:#999;display:block;padding:12px 15px;margin:0;text-decoration:none;text-transform:none;font-weight:400;transition:initial}
+#navigation-hype li li:hover,#navigation-hype li li a:hover {background:#fafafa;color:#444;}
+/* Post Wrapper */
+#main-wrapper{background:#fff;width:65.15%;float:left;margin:0 20px 0 0;padding:0;word-wrap:break-word;overflow:hidden;}
+.main .Blog{border-bottom-width:0}
+.main .widget{margin:0;padding:0}
+.date-header{display:none!important}
+h1.post-title.entry-title,h2.post-title.entry-title {font-size:18px;}
+h1.post-title.entry-title a,h2.post-title.entry-title a{color:#555;}
+h1.post-title.entry-title a:hover,h2.post-title.entry-title a:hover{color:#42b7f0;}
+.post{background:#fff;position:relative;margin:0 0 20px 0;padding:22px}
+.post-body {margin:0;line-height:1.7em;text-align:left;font-size:15px;}
+.post-info{display:block;padding:10px 0;color:#e67e22;line-height:1.6em;font-size:11px;overflow:hidden;margin:10px 0;border-bottom:3px solid #f58220}
+.post-info a {color:#6C7A89;text-transform:uppercase;font-weight:700;}
+.post-info abbr {border:0;}
+.post-timestamp,.author-info,.comment-info,.label-info{padding:0 10px 0 0}
+.post-body img,.post-body video,.post-body object {background:#fafafa;max-width:100%}
+.breadcrumbs{color:#bbb;background:#fcfcfc;padding:18px 20px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-weight:700;border-bottom:1px dotted rgba(0,0,0,0.08)}
+.breadcrumbs a{color:#bbb;}
+.breadcrumbs a:hover{color:#f58220;text-decoration:underline}
+.post-footer{line-height:1.6em}
+.post-footer a{color:#f58220;font-weight:700}
+.feed-links{clear:both;line-height:2.5em;}
+/* Sidebar Wrapper */
+#sidebar-wrapper{padding:0;width:32.61%;float:right;word-wrap:break-word;overflow:hidden}
+#sidebar-wrapper .widget-title{background:#fff;position:relative;text-transform:uppercase}
+#sidebar-wrapper .widget-title h2,#sidebar-wrapper .widget-title h3{position:relative;font-size:13px;padding:15px 20px;margin:0;border-bottom:1px solid rgba(0,0,0,0.08)}
+#sidebar-wrapper .widget ul{margin:0;padding:0}
+.widget-content{background:#fff;margin:0;padding:12px 20px;overflow:hidden;}
+.daftar-recent-post{background:#fff;padding:12px 20px;}
+.sidebar {line-height:1.5em;padding:0}
+.sidebar ul {padding:0;margin:0}
+.BlogArchive #ArchiveList ul li {text-indent:0!important}
+.sidebar ul li{margin:0;padding:10px;border-bottom:1px solid #eaeaea}
+.sidebar .widget {margin:0 0 20px 0}
+/* Footer Wrapper */
+#footer-wrapper{text-align:center;background:#2b2f32;color:rgba(255,255,255,.5);padding:20px 20px 0 20px;margin:auto}
+#footer-end{color:rgba(255,255,255,.5);background:#1f2224;position:relative;display:block;max-width:920px;margin:auto;padding:20px 20px 15px 20px}
+.hypecredit{display:block;position:relative;padding:0 0 5px 0;font-size:13px}
+.hypecredit a {color:rgba(255,255,255,.5);}
+.hypecredit a:hover {color:rgba(255,255,255,.9);}
+#footer-end ul:after{content:".";visibility:hidden;display:block;height:0;clear:both}
+.footer-column{position:relative;margin:20px auto;clear:both;font-size:14px;line-height:24px;overflow:hidden;text-align:left;max-width:920px;}
+.footer-column h3{position:relative;margin:0 0 10px 0;font-size:16px;padding:0 0 10px 0;border-bottom:1px solid rgba(255,255,255,.1);color:rgba(255,255,255,.9);text-transform:uppercase}
+.footer-column h3:before{content:'';position:absolute;bottom:-2px;left:0;right:0;background:rgba(255,255,255,.3);width:14%;height:2px}
+.footer-menu{float:left;width:31%;margin:0 20px 20px 0}
+.footer-menu ul{margin:0}
+.footer-menu ul li a{color:rgba(255,255,255,.5)}
+.footer-menu ul li a:hover{color:rgba(255,255,255,.9)}
+/* Subscribe Footer */
+#subscribe-footer{overflow:hidden;margin:0 0 20px 0;width:33.4%}
+#subscribe-footer p{margin:1em 0}
+#subscribe-footer .emailfooter{margin:auto;text-align:center;}
+#subscribe-footer .emailfooter form{margin:0;padding:0;float:left}
+#subscribe-footer .emailfooter input{background:rgba(0,0,0,.15);padding:12px;color:rgba(255,255,255,.5);font-size:14px;margin-bottom:10px;border:0;transition:all .3s}
+#subscribe-footer .emailfooter input:focus{color:rgba(255,255,255,.9);outline:none;}
+#subscribe-footer .emailfooter .submitfooter{background:#41474c;color:#fff;margin:0 0 0 5px;font-size:14px;cursor:pointer;padding:9px;border:0;border-radius:3px;transition:all .3s}
+#subscribe-footer .emailfooter .submitfooter:active,#subscribe-footer .emailfooter .submitfooter:hover{background-color:#4c5358;color:#fff;}
+/* Popular Post */
+.PopularPosts ul{background:#fff;list-style:none;margin:0;padding:5px 5px 0;overflow:hidden;border-top:none}
+.PopularPosts li,.PopularPosts li img,.PopularPosts li a,.PopularPosts li a img{margin:0;padding:0;list-style:none;border:none;background:none;outline:none}
+.PopularPosts ul{margin:0;list-style:none;color:#64707a}
+.PopularPosts ul li img{background:#6C7A89;display:block;margin:0 10px 0 0;width:60px;height:60px;overflow:hidden;float:left;}
+.PopularPosts ul li{background-color:#fff;margin:0;padding:.7em 0!important;border:0;position:relative;border-bottom:1px dotted rgba(0,0,0,0.2)}
+.PopularPosts ul li:first-child{border-top:none}
+.PopularPosts ul li:last-child{border-bottom:none}
+.PopularPosts ul li .item-title a,.PopularPosts ul li a{color:#555;font-size:13px;}
+.PopularPosts ul li a:hover{color:#3193d5;}
+.PopularPosts .item-thumbnail{margin:0;}
+.PopularPosts .item-snippet{display:none}
+.PopularPosts .item-title{font-weight:700;padding-bottom:.2em;padding:0 5px}
+/* Label */
+.label-size-1,.label-size-2,.label-size-3,.label-size-4,.label-size-5 {font-size:100%;opacity:1}
+.cloud-label-widget-content{text-align:left;padding:20px;}
+.label-size {background:#fff;display:block;float:left;margin:0 3px 3px 0;color:#999;font-size:11px;line-height:1.2;}
+.label-size a,.label-size span{display:inline-block;color:#666;padding:6px 8px}
+.label-count {white-space:nowrap;padding-right:3px;margin-left:-3px;color:#999;}
+.label-count:hover {color:#5e94ef;}
+#sidebar-wrapper .Label li {background:#fff;color:#666;float:left;padding:10px 5px;margin-left:3px;text-align:left;width:95%;border-bottom:1px solid rgba(0,0,0,0.08);}
+#sidebar-wrapper .Label li:hover {background:#fff;color:#5e94ef;}
+#sidebar-wrapper .Label li a {color:#666;}
+#sidebar-wrapper .Label li a:hover {color:#5e94ef;}
+#sidebar-wrapper .label-size{display:block;float:left;margin:0 3px 3px 0;font-size:10px;border:none;text-transform:uppercase}
+#sidebar-wrapper .label-size a{background:#f5f5f5;display:inline-block;color:#888;padding:6px 8px;border-radius:3px}
+#sidebar-wrapper .label-size a:hover {background:#f0f0f0;color:#888;}
+#sidebar-wrapper .Label li:hover:before {margin:0 0 0 5px;color:#f56954;}
+#sidebar-wrapper .Label li span{float:right;background-color:#f58220;color:#fff;line-height:1.2;margin:0;padding:4px 6px;text-align:center;font-size:13px;}
+#sidebar-wrapper .Label li span:hover{background-color:#e0761c;color:#fff}
+/* Dropdown Label */
+#Label1 .widget-content{padding:20px;line-height:0;}
+.dropmedown select{outline:none;cursor:pointer;transition:all .6s ease-out}.dropmedown select:hover,.dropmedown select:focus{outline:none;cursor:pointer;color:#444}
+.dropmedown{display:inline-block;position:relative;overflow:hidden;width:100%;border:0;height:40px;line-height:40px;color:#7f8c8d}
+.dropmedown:before,.dropmedown:after{content:'';position:absolute;z-index:2;top:15px;right:12px;width:0;height:0;line-height:40px;border:4px dashed;border-color:#999 transparent;pointer-events:none}
+.dropmedown:before{border-bottom-style:solid;border-top:none}
+.dropmedown:after{margin-top:8px;border-top-style:solid;border-bottom:none}
+.dropdown-select{position:relative;width:100%;margin:0;padding:6px 8px 6px 10px;height:40px;line-height:20px;font-size:13px;color:#555;background:#f5f5f5;border:0;-webkit-appearance:none}
+.dropdown-select>option{position:relative;background:#fff;display:block;margin:3px;text-shadow:none;outline:0;color:#555;border:0;cursor:pointer}
+/* Kotak Iklan */
+.banner,.banner2{margin:0 auto;text-align:center;overflow:hidden}
+.banner .widget,.banner2 .widget{width:100%;max-width:100%;margin:0 auto 20px auto;background:#fff;text-align:center;overflow:hidden;padding:10px}
+.banner img,.banner iframe,.banner2 img,.banner2 iframe{display:block;margin:0 auto;text-align:center}
+.kotak_iklan{text-align:center;margin:0 auto;transition:all 1s ease-out}
+.kotak_iklan .sidebar .widget-content,.kotak_iklan .sidebar-atas .widget-content{padding:0;border:0}
+.kotak_iklan .sidebar .widget{margin-bottom:0;padding:0}
+.kotak_iklan img{background:#fff;text-align:center;margin:0 auto;padding:4px;border:1px solid transparent!important;transition:all .6s ease-out}
+.kotak_iklan img:hover{background:#fdfdfd;border:1px solid #e6e6e6}
+.kotak_iklan2{text-align:center;margin:0 auto;transition:all 1s ease-out}
+.kotak_iklan2 .sidebar .widget-content,.kotak_iklan2 .sidebar-atas .widget-content{padding:0;background:#f2f6f7;box-shadow:0 1px 2px 0 rgba(0,0,0,.1);border:0}
+.kotak_iklan2 .sidebar .widget,.kotak_iklan2 .sidebar-atas .widget{margin-bottom:0;padding:0}
+.kotak_iklan2 img{text-align:center;transition:all 1s ease-out}
+.kotak_iklan2 img:hover{transition:all .5s ease-out}
+/* Sticky Wrapper */
+#sticky-side {padding:0;margin:auto;max-width:300px;}
+.daftar-recent-post ul.recent-post-arlina{margin:0;padding:0;}
+#sticky-side .recent-post-arlina li{position:relative;overflow:hidden;padding:.7em 0!important;border-bottom:1px dotted rgba(0,0,0,0.2)}
+#sticky-side .recent-post-arlina li:last-child {border:0;}
+#sticky-side .recent-post-arlina li img{background:#6C7A89;display:block;margin:0 10px 0 0;width:60px;height:60px;overflow:hidden;float:left;}
+#sticky-side .recent-post-arlina li .item-content{padding-bottom:.2em;}
+#sticky-side .recent-post-arlina li h3{display:block;background:transparent;margin:0 0 10px;padding:0;font-size:13px;border:0;font-weight:700;text-align:left;letter-spacing:initial;text-transform:none;line-height:1.6;}
+#sticky-side .recent-post-arlina li a:hover{color:#3193d5;}
+#sticky-side .recent-post-arlina li .item-content .recent-meta-data{font-size:11px;color:#999}
+#sticky-side .recent-post-arlina li .item-content .recent-meta-data span.recentdate{margin:0 10px 0 0}
+#sticky-side .recent-post-arlina li p,#sticky-side .recent-post-arlina li h3:before,#sticky-side .recent-post-arlina li h3:after{display:none;}
+#HTML1 .widget-content,#HTML73 .widget-content,#HTML3 .widget-content{padding:0;}
+/* Back To Top */
+.backtotop{visibility:hidden;z-index:2;background:#f58220 url(http://3.bp.blogspot.com/-NUZShzUe-Y0/Vm8v8y42IwI/AAAAAAAANhg/rUoCqcfnB7E/s1600/top-arrow.png) no-repeat center center;width:36px;height:34px;text-indent:-99999px;border-radius:2px;position:fixed;bottom:40px;right:40px;cursor:pointer;transition:all .6s;overflow:auto;opacity:0}
+.backtotop.showe{visibility:visible;cursor:pointer;opacity:.9;-webkit-transform:translateZ(0);transform:translateZ(0);transition:all .6s;transition-delay:0s}
+.backtotop:hover{opacity:1}
+/* Global Responsive */
+@media screen and (max-width:1024px) {
+.contact-popup.active {top:5%;}}
+@media screen and (max-width:800px) {
+#footer-wrapper{padding:20px 0 0 0}
+#header {text-align:center}
+#headerdua {float:none;max-width:100%;}
+.header-right {float:none;margin:20px 0 0 0;max-width:100%;}
+#main-wrapper {float:none;border:0;width:100%;}
+#sidebar-wrapper {padding: 0 20px;width:100%;float:none;}
+#menu {display:block;}
+#navigation-hype {font-size:initial;color:#fff;position:relative;display:block;padding:20px;text-transform:uppercase;font-weight:700;}
+#navigation-hype ul{background:#4c5358;position:absolute;top:100%;left:0;z-index:3;height:auto;display:none}
+#navigation-hype ul.menus{width:100%;position:static;padding-left:20px}
+#navigation-hype li{display:block;float:none;width:auto}
+#navigation-hype input,#navigation-hype label{position:absolute;top:0;left:0;display:block}
+#navigation-hype input{z-index:4}
+#navigation-hype input:checked + label{color:#fff}
+#navigation-hype input:checked ~ ul{display:block;width:100%}
+#navigation-hype li.indie a{background:#4c5358;padding:22px 14px}
+#navigation-hype li:hover > ul{width:100%}
+#navigation-hype li li {border:0;}
+#navigation-hype li li > a{background:rgba(0,0,0,.05);color:#eee;transition:initial;font-weight:700}
+navigation-hype li li:hover, #navigation-hype li li a:hover {background:#1f2224;color:#fff;}
+#navigation-hype li ul {background:rgba(0,0,0,.15);display:block;visibility:visible;opacity:1;padding:0;position:relative;width:100%;left:initial;box-shadow:none;}
+#navigation-hype li:hover ul.menus,#navigation-hype li:hover > ul{left:initial}}
+@media only screen and (max-width:768px) {
+#header{padding:25px 20px;}
+#headerdua {float:none;max-width:100%;}
+.header-right {float:none;max-width:100%;margin-top:20px;}
+#sidebar-wrapper,#main-wrapper {width:100%;padding:0 20px 20px 20px;background:none;}
+.sidebar {padding:0;}
+.menusearch{display:block;margin:20px 0;padding:0 20px;max-width:100%;}
+.searchform .searchfield {width:100%;}
+.footer-menu,#subscribe-footer{float:none;width:auto;margin:0 20px 20px 20px}
+#footer-end{padding:20px}
+#footer-end .digg{right:21px;top:21px}
+.backtotop{bottom:10px;right:10px;}
+.backtotop.showe{bottom:10px;}
+#sticky-side {position:relative!important;z-index:initial;max-width:100%;}}
+@media screen and (max-width:640px) {
+.post-info {display:none}
+.status-msg-border {width:97%}
+.post h2 {font-size:100%}
+#footer-wrapper{margin:auto;border-top:1px solid rgba(0,0,0,0.1)}
+#footer-xwidget {width:100%;overflow:hidden;}
+#sosmed ul{padding:10px 0}
+#sosmed ul li{display:table;margin:10px auto;position:relative;width:90%;text-align:center}
+#footer-wrapper .footer-nav li{border:0}
+.contact-trigger{position:relative;right:0;top:5px}
+.contact-popup.active{left:0;margin-left:0}
+#ContactForm1{padding:10px;border-radius:0}
+#breakingnews .tulisbreaking{display:none}}
+@media screen and (max-width:480px) {
+.comments .comments-content .user{line-height:2.8em}
+.post h2{font-size:100%}
+.post h1{font-size:120%}
+body{font-size:90%}
+#subscribe-footer .emailfooter input{width:100%}
+#subscribe-footer .emailfooter form{margin:auto;float:none}
+.top-wrap-head .maxwrap {background:#fff;}
+.menusearch{padding:0}
+#breakingnews{max-width:55%}
+#breakingnews .tulisred{color:#444;background-color:#fff;border-right:1px solid rgba(0,0,0,0.05)}}
+@media screen and (max-width:380px) {
+#footer-wrapper .footer-nav li{display:block}}
+@media screen and (max-width:320px) {
+body{background:#fff}
+.daftar-recent-post,.widget-content{padding:12px 0}
+.post{padding:0}
+#sosmed ul li{width:100%}}
+@media screen and (max-width:240px) {
+body{font-size:80%}}
+.status-msg-body {padding:10px 0;display:none}
+.status-msg-wrap{display:none;font-size:14px;margin-left:1px;width:100%;color:#666}
+.status-msg-wrap a{color:orange!important}
+.status-msg-bg{display:none;background:#ccc;position:relative;width:99%;padding:6px;z-index:1;border:2px #999 solid}
+.status-msg-border{display:none;border:0;position:relative;width:99%}
+</style>
+<style type='text/css'>
+#blog-pager{position:relative;display:block;margin:20px 0;text-align:left;overflow:visible;margin:auto;border-top:1px dotted rgba(0,0,0,0.18);}
+.post-thumb{position:relative;background:#6C7A89;overflow:hidden;float:left;min-width:180px;height:auto;min-height:160px;margin:0 20px 0 0;transition:all .3s}
+.post-thumbnail{background:#6C7A89;width:100%;height:auto;}.post-thumb img{background:#6C7A89;}
+.post-thumb .comment-info{position:absolute;top:0;left:0;z-index:5;color:#fff;padding:0}
+.post-thumb .comment-info a{display:inline-block;background:red;color:#fff;padding:10px}
+.snippets{color:#999;font-size:85%;line-height:1.6;margin:0 0 8px 0;}
+a.post-readmore{display:inline-block;height:30px;float:left;color:#bbb;font-size:11px;font-style:italic}
+a.post-readmore:hover{color:#666;}
+.post-thumb:hover .post-timestamp{opacity:.85;visibility:visible}
+.post-timestamp a abbr.published.updated{border:0;cursor:pointer}
+.post-info{display:block;padding:5px 0;color:#999;line-height:1.6em;font-size:11px;overflow:hidden;margin:5px 0;border:0}
+.post-info a{color:#999;text-transform:none;font-weight:400}
+/* CSS Label Info */
+.post .label-info{margin:0;padding:0;display:inline-block;position:absolute;left:0;top:0;z-index:2}
+.label-info a{background:#42b7f0;color:#fff;position:relative;font-size:11px;display:block;padding:4px 8px;line-height:normal;margin:0;transition:all .3s}
+.label-info a:hover{background:#3ba9df;color:#fff;}
+.label-info a:nth-child(n+2),.home-link {display:none;}
+/* Page Navigation */
+#blog-pager{background:#fff;clear:both;overflow:visible;width:auto;padding:22px;text-align:left;line-height:normal}
+.showpage a,.showpageNum a,.showpagePoint,.showpageOf{background:#f5f5f5;display:inline-block;font-size:90%;color:#444;border-radius:2px;padding:6px 10px;margin:0 3px 0 0}
+.showpagePoint,.showpage a:hover,.showpageNum a:hover,.showpagePoint:hover{background:#f58220;color:#fff;}
+@media screen and (max-width:768px) {
+h1.post-title.entry-title a, h2.post-title.entry-title a {display:inline-block;margin:15px 0;}}
+@media screen and (max-width:640px) {
+.post-thumb{width:100%;margin:0;min-width:auto;min-height:auto;}
+.post-thumbnail {width:100%;height:auto;}
+h1.post-title.entry-title a, h2.post-title.entry-title a {margin:10px 0;}
+#blog-pager {padding:22px;}
+.showpage a,.showpageNum a,.showpagePoint,.showpageOf{margin:0 4px 4px 0}}
+@media screen and (max-width:320px) {
+.post-thumb{max-height:160px;}
+#blog-pager {padding:22px 0;}}
+</style>
+<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script type='text/javascript'>
+//<![CDATA[
+//CSS Ready
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic");
+//]]>
+</script>
+<script type='text/javascript'>
+snippet_count = 80;
+//<![CDATA[
+function removeHtmlTag(n,e){if(-1!=n.indexOf("<")){for(var t=n.split("<"),i=0;i<t.length;i++)-1!=t[i].indexOf(">")&&(t[i]=t[i].substring(t[i].indexOf(">")+1,t[i].length));n=t.join("")}for(e=e<n.length-1?e:n.length-2;" "!=n.charAt(e-1)&&-1!=n.indexOf(" ",e);)e++;return n=n.substring(0,e-1),n+"..."}function createSnippet(n){var e=document.getElementById(n),t=snippet_count,i='<div class="snippets">'+removeHtmlTag(e.innerHTML,t)+"</div>";e.innerHTML=i}
+//]]>
+</script>
+<script type='text/javascript'>
+var numposts=1,numposts2=6,showpostthumbnails=!0,showpostthumbnails2=!0,displaymore=!0,displaymore2=!1,showcommentnum=!1,showcommentnum2=!1,showpostdate=!0,showpostdate2=!1,showpostsummary=!0,numchars=150,thumb_width=345,thumb_height=220,thumb_width2=64,thumb_height2=64,no_thumb="http://3.bp.blogspot.com/-PHzN2A92GHE/Vmim2TTkAII/AAAAAAAADZU/X42ioeFiyBo/s1600/newsarlina_thumb.png",no_thumb2="http://2.bp.blogspot.com/-cW6waOyA8mY/Vmim2VkylII/AAAAAAAADZY/_pANIKGBUXA/s1600/newsarlinathumb_small.png";
+</script>
+</head>
+<!-- <body><div></div> -->
+<body class='loading'>
+<div class='top-wrap-head'>
+<div class='maxwrap'>
+<div id='breakingnews'><span class='tulisred'>Hot</span><span class='tulisbreaking'>Breaking News</span>
+<div id='recentbreaking'>Fetching data...</div>
+</div>
+<div class='header-sosmed section' id='header-sosmed'><div class='widget LinkList' data-version='1' id='LinkList215'>
+<div class='widget-content'>
+<ul>
+<li class='Instagram'><a class='Instagram' href='https://www.facebook.com/arlinadesign' title='Instagram'></a></li>
+<li class='GooglePlus'><a class='GooglePlus' href='https://plus.google.com/107538075507319415040' title='GooglePlus'></a></li>
+<li class='Twitter'><a class='Twitter' href='https://twitter.com/ArlinaDesign' title='Twitter'></a></li>
+<li class='Facebook'><a class='Facebook' href='https://www.facebook.com/arlinadesign' title='Facebook'></a></li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id='header' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
+<div class='maxwrap'>
+<div class='section' id='headerdua'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='http://csearlina.blogspot.co.id/' itemprop='url' title='New Line'>
+<span itemprop='name'>New Line</span>
+</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>New Line Responsive Blogger Template</span></p>
+</div>
+</div>
+</div></div>
+<div class='header-right section no-items section' id='header-right'></div>
+<div class='menusearch'>
+<form action='/search' class='searchform' method='get'>
+<input class='searchfield' id='q' name='q' onblur='if(this.value==&#39;&#39;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&#39;&#39;' type='text' value='Type your keyword here...'>
+<input id='searchsubmit' type='submit' value=''><span class='ico ico-mglass'></span></input>
+</input>
+</form>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+<nav id='navigation-hype' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement'>
+<div class='maxwrap'>
+<input type='checkbox'>&#9776; Navigation</input>
+<ul>
+<li class='indie'><a href='http://csearlina.blogspot.co.id/' itemprop='url'><span itemprop='name'>Home</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Blog</span></a>
+<ul>
+<li><a href='#' itemprop='url'><span itemprop='name'>About</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Contact</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Disclaimer</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Privacy Policy</span></a></li>
+<li><a href='/p/sitemap.html' itemprop='url'><span itemprop='name'>Sitemap</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Terms of Service</span></a></li>
+</ul>
+</li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Bisnis Online</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Info Menarik</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Internet</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Kesehatan</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Profil Artis</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Tips Blogger</span></a></li>
+</ul>
+</div>
+</nav>
+<div class='clear'></div>
+<div id='wrapper'>
+<div id='content-wrapper' itemscope='itemscope' itemtype='http://schema.org/Blog' role='main'>
+<div class='banner section no-items section' id='banner'>
+</div>
+<div class='clear'></div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+                <div class="date-outer">
+              
+<h2 class='date-header'><span>Monday, January 4, 2016</span></h2>
+
+                <div class="date-posts">
+              
+<div class='post-outer'>
+<script>var disqus_url = "http://csearlina.blogspot.com/2016/01/new-line-responsive-blogger-template.html";</script>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemType='https://schema.org/WebPage' itemprop='mainEntityOfPage' itemscope='itemscope'></div>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://4.bp.blogspot.com/-85zQwMdLm24/VmGwA9aFRgI/AAAAAAAAAVM/AHpkZL9MdTQ/s400/Nubie%2BBanget%2BBlogger%2BTemplate.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-U2rN8ayyR7g/VnR3Djoe0QI/AAAAAAAAAdo/hw0y43HvBTc/s1600/Logo%2BNubie%2BBanget.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='New Line' itemprop='name'/>
+</div>
+<script type='text/javascript'>
+//<![CDATA[
+function arlina_thumb_size(e,t){var n=180;var r=160;image_tag='<img width="'+n+'" height="'+r+'" src="'+e.replace("/s72-c/","/w"+n+"-h"+r+"-c/")+'" alt="'+t.replace(/"/g,"")+'" title="'+t.replace(/"/g,"")+'" class="post-thumbnail"/>';if(t!="")return image_tag;else return""}
+//]]>
+</script>
+<div class='post-thumb'>
+<script type='text/javascript'>
+document.write(arlina_thumb_size("http://4.bp.blogspot.com/-85zQwMdLm24/VmGwA9aFRgI/AAAAAAAAAVM/AHpkZL9MdTQ/s72-c/Nubie%2BBanget%2BBlogger%2BTemplate.jpg","New Line Responsive Blogger Template"));
+</script>
+<span class='label-info'>
+<a href='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup?&amp;max-results=7' rel='tag'>Gaya Hidup</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Motivasi?&amp;max-results=7' rel='tag'>Motivasi</a>
+</span>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline'>
+<a href='http://csearlina.blogspot.co.id/2016/01/new-line-responsive-blogger-template.html' title='New Line Responsive Blogger Template'>
+New Line Responsive Blogger Template
+</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<a class='g-profile' href='https://plus.google.com/107538075507319415040' rel='author' title='author profile'>
+                  Written &#10070; <span itemprop='name'>Amelia Putri</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+<meta content='http://csearlina.blogspot.com/2016/01/new-line-responsive-blogger-template.html' itemprop='url'/>
+<span itemprop='dateModified'>&#10070; <a class='timestamp-link' href='http://csearlina.blogspot.co.id/2016/01/new-line-responsive-blogger-template.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2016-01-04T04:58:00+07:00'>January 04, 2016</abbr></a></span>
+</span>
+<span class='comment-info'>
+<a href='http://csearlina.blogspot.co.id/2016/01/new-line-responsive-blogger-template.html#disqus_thread' title='Comments Count'></a>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-7902733497787205329'>
+<div itemprop='description articleBody'>
+<div id='summary7902733497787205329'><b><a href="http://csearlina.blogspot.com/2016/01/new-line-responsive-blogger-template.html">New Line Responsive Blogger Template</a></b> - Dewars scotch whisky, urna pappy van winkle sem ante wild turkey mattis; jungle juice. Captain morgan mortlach, curabitur ut kensington court special blandit ramos gin fizz?<br>
+<br>
+<div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-85zQwMdLm24/VmGwA9aFRgI/AAAAAAAAAVM/AHpkZL9MdTQ/s1600/Nubie%2BBanget%2BBlogger%2BTemplate.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Nubie Banget Blogger Template" height="236" src="http://4.bp.blogspot.com/-85zQwMdLm24/VmGwA9aFRgI/AAAAAAAAAVM/AHpkZL9MdTQ/s400/Nubie%2BBanget%2BBlogger%2BTemplate.jpg" style="border: none;" title="Nubie Banget Blogger Template" width="400"></a></div></div>
+<script type='text/javascript'>createSnippet("summary7902733497787205329");</script>
+<a class='post-readmore' href='http://csearlina.blogspot.co.id/2016/01/new-line-responsive-blogger-template.html'>Continue reading...</a>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</article>
+</div>
+
+                  </div></div>
+                
+
+                <div class="date-outer">
+              
+<h2 class='date-header'><span>Sunday, November 22, 2015</span></h2>
+
+                <div class="date-posts">
+              
+<div class='post-outer'>
+<script>var disqus_url = "http://csearlina.blogspot.com/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html";</script>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemType='https://schema.org/WebPage' itemprop='mainEntityOfPage' itemscope='itemscope'></div>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://2.bp.blogspot.com/-pVjlsetCKtQ/VlE9in8f5vI/AAAAAAAAAPA/v52fhjKLwbQ/s1600/Tips%2BAgar%2BKulit%2BSehat%2Bdan%2BBercahaya.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-U2rN8ayyR7g/VnR3Djoe0QI/AAAAAAAAAdo/hw0y43HvBTc/s1600/Logo%2BNubie%2BBanget.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='New Line' itemprop='name'/>
+</div>
+<div class='post-thumb'>
+<script type='text/javascript'>
+document.write(arlina_thumb_size("http://2.bp.blogspot.com/-pVjlsetCKtQ/VlE9in8f5vI/AAAAAAAAAPA/v52fhjKLwbQ/s72-c/Tips%2BAgar%2BKulit%2BSehat%2Bdan%2BBercahaya.jpg","Tips Agar Kulit Sehat dan Bercahaya"));
+</script>
+<span class='label-info'>
+<a href='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup?&amp;max-results=7' rel='tag'>Gaya Hidup</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Kesehatan?&amp;max-results=7' rel='tag'>Kesehatan</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik?&amp;max-results=7' rel='tag'>Tips dan Trik</a>
+</span>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html' title='Tips Agar Kulit Sehat dan Bercahaya'>
+Tips Agar Kulit Sehat dan Bercahaya
+</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<a class='g-profile' href='https://plus.google.com/107538075507319415040' rel='author' title='author profile'>
+                  Written &#10070; <span itemprop='name'>Amelia Putri</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+<meta content='http://csearlina.blogspot.com/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html' itemprop='url'/>
+<span itemprop='dateModified'>&#10070; <a class='timestamp-link' href='http://csearlina.blogspot.co.id/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2015-11-22T11:00:00+07:00'>November 22, 2015</abbr></a></span>
+</span>
+<span class='comment-info'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html#disqus_thread' title='Comments Count'></a>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-2479954941787482127'>
+<div itemprop='description articleBody'>
+<div id='summary2479954941787482127'>Mendapatkan kulit yang cantik, sehat bercahaya bukanlah hal yang sulit. Banyak cara untuk mendapatkan hal tersebut. Salah satu cara adalah dengan mengkonsumsi sejumlah makanan yang akan membuat Anda mendapatkan kulit halus dan bercahaya. Silakan Anda coba beberapa jenis makanan yang mengandung zat berikut ini :<br>
+<br>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-pVjlsetCKtQ/VlE9in8f5vI/AAAAAAAAAPA/v52fhjKLwbQ/s1600/Tips%2BAgar%2BKulit%2BSehat%2Bdan%2BBercahaya.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Tips Agar Kulit Sehat dan Bercahaya" src="http://2.bp.blogspot.com/-pVjlsetCKtQ/VlE9in8f5vI/AAAAAAAAAPA/v52fhjKLwbQ/s1600/Tips%2BAgar%2BKulit%2BSehat%2Bdan%2BBercahaya.jpg" style="border: none;" title="Tips Agar Kulit Sehat dan Bercahaya"></a></div>
+</div>
+<script type='text/javascript'>createSnippet("summary2479954941787482127");</script>
+<a class='post-readmore' href='http://csearlina.blogspot.co.id/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html'>Continue reading...</a>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</article>
+</div>
+<div class='post-outer'>
+<script>var disqus_url = "http://csearlina.blogspot.com/2015/11/tips-melindungi-smartphone-android-dari.html";</script>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemType='https://schema.org/WebPage' itemprop='mainEntityOfPage' itemscope='itemscope'></div>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-QCXcv92Fu3c/VlFAok1CiKI/AAAAAAAAAPM/Vgzl5qKLm_E/s640/Tips%2BMelindungi%2BSmartphone%2BAndroid%2Bdari%2BVirus.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-U2rN8ayyR7g/VnR3Djoe0QI/AAAAAAAAAdo/hw0y43HvBTc/s1600/Logo%2BNubie%2BBanget.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='New Line' itemprop='name'/>
+</div>
+<div class='post-thumb'>
+<script type='text/javascript'>
+document.write(arlina_thumb_size("http://3.bp.blogspot.com/-QCXcv92Fu3c/VlFAok1CiKI/AAAAAAAAAPM/Vgzl5qKLm_E/s72-c/Tips%2BMelindungi%2BSmartphone%2BAndroid%2Bdari%2BVirus.jpg","Tips Melindungi Smartphone Android dari Virus"));
+</script>
+<span class='label-info'>
+<a href='http://csearlina.blogspot.co.id/search/label/Smartphone?&amp;max-results=7' rel='tag'>Smartphone</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik?&amp;max-results=7' rel='tag'>Tips dan Trik</a>
+</span>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-melindungi-smartphone-android-dari.html' title='Tips Melindungi Smartphone Android dari Virus'>
+Tips Melindungi Smartphone Android dari Virus
+</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<a class='g-profile' href='https://plus.google.com/107538075507319415040' rel='author' title='author profile'>
+                  Written &#10070; <span itemprop='name'>Amelia Putri</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+<meta content='http://csearlina.blogspot.com/2015/11/tips-melindungi-smartphone-android-dari.html' itemprop='url'/>
+<span itemprop='dateModified'>&#10070; <a class='timestamp-link' href='http://csearlina.blogspot.co.id/2015/11/tips-melindungi-smartphone-android-dari.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2015-11-22T10:24:00+07:00'>November 22, 2015</abbr></a></span>
+</span>
+<span class='comment-info'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-melindungi-smartphone-android-dari.html#disqus_thread' title='Comments Count'></a>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-4476311211952898678'>
+<div itemprop='description articleBody'>
+<div id='summary4476311211952898678'>Android sekarang merupakan sistem operasi terbesar yang digunakan banyak orang di seluruh dunia. Banyak sekali vendor smartphone yang menggunakan Android sebagai sistem operasinya. Selain gratis, Android juga banyak digemari orang. Karena keanekaragaman fitur dan sistem yang terus dikembangkan oleh Google.<br>
+<br>
+<div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-QCXcv92Fu3c/VlFAok1CiKI/AAAAAAAAAPM/Vgzl5qKLm_E/s1600/Tips%2BMelindungi%2BSmartphone%2BAndroid%2Bdari%2BVirus.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Tips Melindungi Smartphone Android dari Virus" height="377" src="http://3.bp.blogspot.com/-QCXcv92Fu3c/VlFAok1CiKI/AAAAAAAAAPM/Vgzl5qKLm_E/s640/Tips%2BMelindungi%2BSmartphone%2BAndroid%2Bdari%2BVirus.jpg" style="border: none;" title="Tips Melindungi Smartphone Android dari Virus" width="640"></a></div><br>
+Dengan banyaknya pengguna, tentu saja banyak juga orang-orang yang melihat celah ini untuk berbuat jahat dengan mencoba menyebarkan virus pada perangkat Android. Virus yang dikirim para cracker pun mungkin dapat membahayakan data dan perangkat android Anda. Untuk itu, kami akan memberikan beberapa <b>Tips Melindungi Smartphone Android dari Virus</b>.<br>
+</div>
+<script type='text/javascript'>createSnippet("summary4476311211952898678");</script>
+<a class='post-readmore' href='http://csearlina.blogspot.co.id/2015/11/tips-melindungi-smartphone-android-dari.html'>Continue reading...</a>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</article>
+</div>
+<div class='post-outer'>
+<script>var disqus_url = "http://csearlina.blogspot.com/2015/11/cara-memisahkan-kuning-telur-dengan.html";</script>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemType='https://schema.org/WebPage' itemprop='mainEntityOfPage' itemscope='itemscope'></div>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://4.bp.blogspot.com/-fH7jl9TnGn4/VlEt7tZYw7I/AAAAAAAAAOg/fECL15Vn6K4/s1600/Cara%2BMemisahkan%2BKuning%2BTelur%2Bdengan%2BMudah.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-U2rN8ayyR7g/VnR3Djoe0QI/AAAAAAAAAdo/hw0y43HvBTc/s1600/Logo%2BNubie%2BBanget.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='New Line' itemprop='name'/>
+</div>
+<div class='post-thumb'>
+<script type='text/javascript'>
+document.write(arlina_thumb_size("http://4.bp.blogspot.com/-fH7jl9TnGn4/VlEt7tZYw7I/AAAAAAAAAOg/fECL15Vn6K4/s72-c/Cara%2BMemisahkan%2BKuning%2BTelur%2Bdengan%2BMudah.jpg","Cara Memisahkan Kuning Telur dengan Mudah"));
+</script>
+<span class='label-info'>
+<a href='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup?&amp;max-results=7' rel='tag'>Gaya Hidup</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik?&amp;max-results=7' rel='tag'>Tips dan Trik</a>
+</span>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline'>
+<a href='http://csearlina.blogspot.co.id/2015/11/cara-memisahkan-kuning-telur-dengan.html' title='Cara Memisahkan Kuning Telur dengan Mudah'>
+Cara Memisahkan Kuning Telur dengan Mudah
+</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<a class='g-profile' href='https://plus.google.com/107538075507319415040' rel='author' title='author profile'>
+                  Written &#10070; <span itemprop='name'>Amelia Putri</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+<meta content='http://csearlina.blogspot.com/2015/11/cara-memisahkan-kuning-telur-dengan.html' itemprop='url'/>
+<span itemprop='dateModified'>&#10070; <a class='timestamp-link' href='http://csearlina.blogspot.co.id/2015/11/cara-memisahkan-kuning-telur-dengan.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2015-11-22T09:58:00+07:00'>November 22, 2015</abbr></a></span>
+</span>
+<span class='comment-info'>
+<a href='http://csearlina.blogspot.co.id/2015/11/cara-memisahkan-kuning-telur-dengan.html#disqus_thread' title='Comments Count'></a>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-7704242281138802113'>
+<div itemprop='description articleBody'>
+<div id='summary7704242281138802113'>Cara memisahkan kuning telur dari putih telur sampai sekarang masih menjadi misteri, banyak sekali cara yang orang tawarkan untuk memisahkan kuning telur. Banyak cara yang orang lakukan dari menggunakan kulit telur itu sendiri dengan tangan dan dengan alat bantu yang mungkin harganya mahal.<br>
+<br>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-fH7jl9TnGn4/VlEt7tZYw7I/AAAAAAAAAOg/fECL15Vn6K4/s1600/Cara%2BMemisahkan%2BKuning%2BTelur%2Bdengan%2BMudah.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Cara Memisahkan Kuning Telur dengan Mudah" src="http://4.bp.blogspot.com/-fH7jl9TnGn4/VlEt7tZYw7I/AAAAAAAAAOg/fECL15Vn6K4/s1600/Cara%2BMemisahkan%2BKuning%2BTelur%2Bdengan%2BMudah.jpg" style="border: none;" title="Cara Memisahkan Kuning Telur dengan Mudah"></a></div>
+<br>
+<b>Tips Cara Memisahkan Kuning Telur dari Putih Telur</b> sebenarnya bukan suatu hal yang sulit. Terbukti hanya dengan menggunakan botol bekas air mineral kita tidak perlu capek capek untuk memisahkan kuning telur.<br>
+</div>
+<script type='text/javascript'>createSnippet("summary7704242281138802113");</script>
+<a class='post-readmore' href='http://csearlina.blogspot.co.id/2015/11/cara-memisahkan-kuning-telur-dengan.html'>Continue reading...</a>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</article>
+</div>
+<div class='post-outer'>
+<script>var disqus_url = "http://csearlina.blogspot.com/2015/11/tips-cara-merawat-smartphone-kamu.html";</script>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemType='https://schema.org/WebPage' itemprop='mainEntityOfPage' itemscope='itemscope'></div>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-nm-k6qioddo/VlEo-XzToxI/AAAAAAAAAOQ/xW80VWPeF0I/s640/Tips%2BCara%2BMerawat%2BSmartphone%2BKamu.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-U2rN8ayyR7g/VnR3Djoe0QI/AAAAAAAAAdo/hw0y43HvBTc/s1600/Logo%2BNubie%2BBanget.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='New Line' itemprop='name'/>
+</div>
+<div class='post-thumb'>
+<script type='text/javascript'>
+document.write(arlina_thumb_size("http://3.bp.blogspot.com/-nm-k6qioddo/VlEo-XzToxI/AAAAAAAAAOQ/xW80VWPeF0I/s72-c/Tips%2BCara%2BMerawat%2BSmartphone%2BKamu.jpg","Tips Cara Merawat Smartphone Kamu"));
+</script>
+<span class='label-info'>
+<a href='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup?&amp;max-results=7' rel='tag'>Gaya Hidup</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Smartphone?&amp;max-results=7' rel='tag'>Smartphone</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik?&amp;max-results=7' rel='tag'>Tips dan Trik</a>
+</span>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-cara-merawat-smartphone-kamu.html' title='Tips Cara Merawat Smartphone Kamu'>
+Tips Cara Merawat Smartphone Kamu
+</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<a class='g-profile' href='https://plus.google.com/107538075507319415040' rel='author' title='author profile'>
+                  Written &#10070; <span itemprop='name'>Amelia Putri</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+<meta content='http://csearlina.blogspot.com/2015/11/tips-cara-merawat-smartphone-kamu.html' itemprop='url'/>
+<span itemprop='dateModified'>&#10070; <a class='timestamp-link' href='http://csearlina.blogspot.co.id/2015/11/tips-cara-merawat-smartphone-kamu.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2015-11-22T09:32:00+07:00'>November 22, 2015</abbr></a></span>
+</span>
+<span class='comment-info'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-cara-merawat-smartphone-kamu.html#disqus_thread' title='Comments Count'></a>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-4231080549660228505'>
+<div itemprop='description articleBody'>
+<div id='summary4231080549660228505'>Saat ini pengguna smartphone semakin meningkat. Bahkan smartphone seolah sudah menjadi barang wajib bagi setiap orang. Masih ingat dulu ketika BlackBerry masih populer? Hampir setiap orang kemana-mana membawa BlackBerry. Sambil jalan nunduk, tidur bawa smartphone, bekerja selalu diselingi ngecek BlackBerry, bahkan sampai ke kamar mandi, tidak lupa update status.<br>
+<br>
+<div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-nm-k6qioddo/VlEo-XzToxI/AAAAAAAAAOQ/xW80VWPeF0I/s1600/Tips%2BCara%2BMerawat%2BSmartphone%2BKamu.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Tips Cara Merawat Smartphone Kamu" height="427" src="http://3.bp.blogspot.com/-nm-k6qioddo/VlEo-XzToxI/AAAAAAAAAOQ/xW80VWPeF0I/s640/Tips%2BCara%2BMerawat%2BSmartphone%2BKamu.jpg" style="border: none;" title="Tips Cara Merawat Smartphone Kamu" width="640"></a></div><br>
+Akhirnya hubungan Kita dengan smartphone menjadi lebih intim daripada hubungan dengan pasangan sendiri. Betul tidak?<br>
+<br>
+Karena itulah, dibutuhkan ketelatenan untuk merawat smartphone kamu, dan di sini saya memberikan <b>Tips Cara Merawat Smartphone</b> agar tetap awet dan langgeng. Berikut tipsnya :<br>
+</div>
+<script type='text/javascript'>createSnippet("summary4231080549660228505");</script>
+<a class='post-readmore' href='http://csearlina.blogspot.co.id/2015/11/tips-cara-merawat-smartphone-kamu.html'>Continue reading...</a>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</article>
+</div>
+<div class='post-outer'>
+<script>var disqus_url = "http://csearlina.blogspot.com/2015/11/tips-long-distance-relationship-ala.html";</script>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemType='https://schema.org/WebPage' itemprop='mainEntityOfPage' itemscope='itemscope'></div>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://2.bp.blogspot.com/-Doa9IYPTkLo/VlEjhNCBn2I/AAAAAAAAAOA/WtkHVQtc9O8/s1600/Tips%2BLong%2BDistance%2BRelationship%2BAla%2BSosial%2BMedia.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-U2rN8ayyR7g/VnR3Djoe0QI/AAAAAAAAAdo/hw0y43HvBTc/s1600/Logo%2BNubie%2BBanget.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='New Line' itemprop='name'/>
+</div>
+<div class='post-thumb'>
+<script type='text/javascript'>
+document.write(arlina_thumb_size("http://2.bp.blogspot.com/-Doa9IYPTkLo/VlEjhNCBn2I/AAAAAAAAAOA/WtkHVQtc9O8/s72-c/Tips%2BLong%2BDistance%2BRelationship%2BAla%2BSosial%2BMedia.jpg","Tips Long Distance Relationship Ala Sosial Media"));
+</script>
+<span class='label-info'>
+<a href='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup?&amp;max-results=7' rel='tag'>Gaya Hidup</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik?&amp;max-results=7' rel='tag'>Tips dan Trik</a>
+</span>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-long-distance-relationship-ala.html' title='Tips Long Distance Relationship Ala Sosial Media'>
+Tips Long Distance Relationship Ala Sosial Media
+</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<a class='g-profile' href='https://plus.google.com/107538075507319415040' rel='author' title='author profile'>
+                  Written &#10070; <span itemprop='name'>Amelia Putri</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+<meta content='http://csearlina.blogspot.com/2015/11/tips-long-distance-relationship-ala.html' itemprop='url'/>
+<span itemprop='dateModified'>&#10070; <a class='timestamp-link' href='http://csearlina.blogspot.co.id/2015/11/tips-long-distance-relationship-ala.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2015-11-22T09:10:00+07:00'>November 22, 2015</abbr></a></span>
+</span>
+<span class='comment-info'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-long-distance-relationship-ala.html#disqus_thread' title='Comments Count'></a>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-443362623402652570'>
+<div itemprop='description articleBody'>
+<div id='summary443362623402652570'>Sekarang memang sudah era digital, ada yang jadian lewat sosial media, ada yang putus lewat sosial media bahkan ada yang lebih positif yaitu memanfaatkan sosial media sebagai media memperpendek jarak. Hubungan Jarak Jauh atau bahasa gaul nya adalah LDR (Long Distance Relationship) menjadi momok masa kini. Berikut ini adalah <b>Tips Long Distance Relationship Ala Sosial Media</b>.<br>
+<br>
+<div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-Doa9IYPTkLo/VlEjhNCBn2I/AAAAAAAAAOA/WtkHVQtc9O8/s1600/Tips%2BLong%2BDistance%2BRelationship%2BAla%2BSosial%2BMedia.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Tips Long Distance Relationship Ala Sosial Media" src="http://2.bp.blogspot.com/-Doa9IYPTkLo/VlEjhNCBn2I/AAAAAAAAAOA/WtkHVQtc9O8/s1600/Tips%2BLong%2BDistance%2BRelationship%2BAla%2BSosial%2BMedia.jpg" style="border: none;" title="Tips Long Distance Relationship Ala Sosial Media"></a></div><br>
+<h4><b>1. Yang pertama tentu adalah Komitmen dan Saling Percaya</b></h4><br>
+Ini adalah modal awal seorang LDRes atau para pelaku LDR. Tampa ini semua semua akan sia sia karena tidak akan bertahan lama. Komitmen ini bisa kalian tunjukkan dengan menuliskan nama pacar kalian di Bio Social Media yang lagi booming sih di Twitter atau di Facebook.<br>
+</div>
+<script type='text/javascript'>createSnippet("summary443362623402652570");</script>
+<a class='post-readmore' href='http://csearlina.blogspot.co.id/2015/11/tips-long-distance-relationship-ala.html'>Continue reading...</a>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</article>
+</div>
+<div class='post-outer'>
+<script>var disqus_url = "http://csearlina.blogspot.com/2015/11/tips-dan-teknik-cara-bermain-catur.html";</script>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemType='https://schema.org/WebPage' itemprop='mainEntityOfPage' itemscope='itemscope'></div>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://2.bp.blogspot.com/-KbqOn3rF0LY/VlEgT4PVAmI/AAAAAAAAAN0/Ip3J0c9xlMU/s640/Teknik%2Bdan%2BTips%2BCara%2BBermain%2BCatur.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='http://3.bp.blogspot.com/-U2rN8ayyR7g/VnR3Djoe0QI/AAAAAAAAAdo/hw0y43HvBTc/s1600/Logo%2BNubie%2BBanget.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='New Line' itemprop='name'/>
+</div>
+<div class='post-thumb'>
+<script type='text/javascript'>
+document.write(arlina_thumb_size("http://2.bp.blogspot.com/-KbqOn3rF0LY/VlEgT4PVAmI/AAAAAAAAAN0/Ip3J0c9xlMU/s72-c/Teknik%2Bdan%2BTips%2BCara%2BBermain%2BCatur.jpg","Tips dan Teknik Cara Bermain Catur"));
+</script>
+<span class='label-info'>
+<a href='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup?&amp;max-results=7' rel='tag'>Gaya Hidup</a>
+<a href='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik?&amp;max-results=7' rel='tag'>Tips dan Trik</a>
+</span>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-dan-teknik-cara-bermain-catur.html' title='Tips dan Teknik Cara Bermain Catur'>
+Tips dan Teknik Cara Bermain Catur
+</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<a class='g-profile' href='https://plus.google.com/107538075507319415040' rel='author' title='author profile'>
+                  Written &#10070; <span itemprop='name'>Amelia Putri</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+<meta content='http://csearlina.blogspot.com/2015/11/tips-dan-teknik-cara-bermain-catur.html' itemprop='url'/>
+<span itemprop='dateModified'>&#10070; <a class='timestamp-link' href='http://csearlina.blogspot.co.id/2015/11/tips-dan-teknik-cara-bermain-catur.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2015-11-22T08:56:00+07:00'>November 22, 2015</abbr></a></span>
+</span>
+<span class='comment-info'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-dan-teknik-cara-bermain-catur.html#disqus_thread' title='Comments Count'></a>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-7878189292721942653'>
+<div itemprop='description articleBody'>
+<div id='summary7878189292721942653'><b>Teknik bermain catur</b> diperlukan dalam menyudahi perlawanan lawan. Dalam bermain catur setiap langkahnya pasti mengandung maksud. Perang strategi di papan catur menjadi bagian yang tak terelakkan dan menjadi ciri khas dari permainan catur.<br>
+<br>
+<div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-KbqOn3rF0LY/VlEgT4PVAmI/AAAAAAAAAN0/Ip3J0c9xlMU/s1600/Teknik%2Bdan%2BTips%2BCara%2BBermain%2BCatur.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Tips dan Teknik Cara Bermain Catur" height="394" src="http://2.bp.blogspot.com/-KbqOn3rF0LY/VlEgT4PVAmI/AAAAAAAAAN0/Ip3J0c9xlMU/s640/Teknik%2Bdan%2BTips%2BCara%2BBermain%2BCatur.jpg" style="border: none;" title="Tips dan Teknik Cara Bermain Catur" width="640"></a></div><br>
+Catur ini banyak memberikan manfaat dan juga hiburan terutama ketika suasana hati sedang tak menentu, kurang mood, atau bahkan tak bergairah karena diputuskan pacar. Dengan bermain catur maka segala beban tersebut akan sirna dengan sendirinya.<br>
+</div>
+<script type='text/javascript'>createSnippet("summary7878189292721942653");</script>
+<a class='post-readmore' href='http://csearlina.blogspot.co.id/2015/11/tips-dan-teknik-cara-bermain-catur.html'>Continue reading...</a>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</article>
+</div>
+
+              </div></div>
+            
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://csearlina.blogspot.co.id/search?updated-max=2015-11-22T08:56:00%2B07:00&amp;max-results=7' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts</a>
+</span>
+<a class='home-link' href='http://csearlina.blogspot.co.id/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://csearlina.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+</div></div>
+</div>
+<div id='sidebar-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPSideBar'>
+<div class='sidebar section' id='sidebar'><div class='widget HTML' data-version='1' id='HTML73'>
+<div class='widget-content'>
+<div class='kotak_iklan3'>
+<a href='#' target='_blank' title='Kunjungi blog Arlina Design'><img alt='iklan banner' height='250' src='http://3.bp.blogspot.com/-uqMfXCI9GB0/VortrvduxUI/AAAAAAAAA84/q_pvM91zUqg/s1600/new-ba.png' title='Kunjungi blog Arlina Design' width='300'/></a>
+</div>
+</div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Popular Posts</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-thumbnail-only'>
+<div class='item-thumbnail'>
+<a href='http://csearlina.blogspot.co.id/2016/01/new-line-responsive-blogger-template.html' target='_blank'>
+<img alt='New Line Responsive Blogger Template' height='72' src='http://4.bp.blogspot.com/-85zQwMdLm24/VmGwA9aFRgI/AAAAAAAAAVM/AHpkZL9MdTQ/s72-c/Nubie%2BBanget%2BBlogger%2BTemplate.jpg' title='New Line Responsive Blogger Template' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://csearlina.blogspot.co.id/2016/01/new-line-responsive-blogger-template.html' title='New Line Responsive Blogger Template'>New Line Responsive Blogger Template</a></div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-thumbnail-only'>
+<div class='item-thumbnail'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html' target='_blank'>
+<img alt='Tips Agar Kulit Sehat dan Bercahaya' height='72' src='http://2.bp.blogspot.com/-pVjlsetCKtQ/VlE9in8f5vI/AAAAAAAAAPA/v52fhjKLwbQ/s72-c/Tips%2BAgar%2BKulit%2BSehat%2Bdan%2BBercahaya.jpg' title='Tips Agar Kulit Sehat dan Bercahaya' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://csearlina.blogspot.co.id/2015/11/tips-agar-kulit-sehat-dan-bercahaya.html' title='Tips Agar Kulit Sehat dan Bercahaya'>Tips Agar Kulit Sehat dan Bercahaya</a></div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-thumbnail-only'>
+<div class='item-thumbnail'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-dan-teknik-cara-bermain-catur.html' target='_blank'>
+<img alt='Tips dan Teknik Cara Bermain Catur' height='72' src='http://2.bp.blogspot.com/-KbqOn3rF0LY/VlEgT4PVAmI/AAAAAAAAAN0/Ip3J0c9xlMU/s72-c/Teknik%2Bdan%2BTips%2BCara%2BBermain%2BCatur.jpg' title='Tips dan Teknik Cara Bermain Catur' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://csearlina.blogspot.co.id/2015/11/tips-dan-teknik-cara-bermain-catur.html' title='Tips dan Teknik Cara Bermain Catur'>Tips dan Teknik Cara Bermain Catur</a></div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-thumbnail-only'>
+<div class='item-thumbnail'>
+<a href='http://csearlina.blogspot.co.id/2015/11/tips-melindungi-smartphone-android-dari.html' target='_blank'>
+<img alt='Tips Melindungi Smartphone Android dari Virus' height='72' src='http://3.bp.blogspot.com/-QCXcv92Fu3c/VlFAok1CiKI/AAAAAAAAAPM/Vgzl5qKLm_E/s72-c/Tips%2BMelindungi%2BSmartphone%2BAndroid%2Bdari%2BVirus.jpg' title='Tips Melindungi Smartphone Android dari Virus' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://csearlina.blogspot.co.id/2015/11/tips-melindungi-smartphone-android-dari.html' title='Tips Melindungi Smartphone Android dari Virus'>Tips Melindungi Smartphone Android dari Virus</a></div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+</div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<h2>Select Category</h2>
+<div class='widget-content list-label-widget-content'>
+<div class='dropmedown'>
+<select class='dropdown-select' onchange='location=this.options[this.selectedIndex].value;'>
+<option> Pilih Kategori </option>
+<option class='labdrop' title='Gaya Hidup' value='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup?&amp;max-results=7'>
+Gaya Hidup
+<span class='labcount'>8</span>
+</option>
+<option class='labdrop' title='Kesehatan' value='http://csearlina.blogspot.co.id/search/label/Kesehatan?&amp;max-results=7'>
+Kesehatan
+<span class='labcount'>1</span>
+</option>
+<option class='labdrop' title='Motivasi' value='http://csearlina.blogspot.co.id/search/label/Motivasi?&amp;max-results=7'>
+Motivasi
+<span class='labcount'>3</span>
+</option>
+<option class='labdrop' title='Smartphone' value='http://csearlina.blogspot.co.id/search/label/Smartphone?&amp;max-results=7'>
+Smartphone
+<span class='labcount'>2</span>
+</option>
+<option class='labdrop' title='Tips dan Trik' value='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik?&amp;max-results=7'>
+Tips dan Trik
+<span class='labcount'>6</span>
+</option>
+</select>
+</div>
+</div>
+</div><div class='widget Label' data-version='1' id='Label2'>
+<h2>Cloud Labels</h2>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://csearlina.blogspot.co.id/search/label/Gaya%20Hidup'>Gaya Hidup</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://csearlina.blogspot.co.id/search/label/Kesehatan'>Kesehatan</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://csearlina.blogspot.co.id/search/label/Motivasi'>Motivasi</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://csearlina.blogspot.co.id/search/label/Smartphone'>Smartphone</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://csearlina.blogspot.co.id/search/label/Tips%20dan%20Trik'>Tips dan Trik</a>
+</span>
+</div>
+</div></div>
+<div id='sticky-side'>
+<h2 class='title'>Recent Posts</h2>
+<div class='daftar-recent-post' data-domain='csearlina.blogspot.com'></div>
+</div>
+</div>
+<div class='clear'>&#160;</div>
+</div>
+<div class='clear'></div>
+<div class='banner2 section no-items section' id='banner2'>
+</div>
+</div>
+<div class='clear'></div>
+<footer id='footer-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPFooter'>
+<div class='footer-column'>
+<div class='footer-menu'>
+<h3>New Line</h3>
+<ul class='footer2 line'>
+<li><a href='#' title='About us'>About</a></li>
+<li><a href='#' title='Contact us'>Contact</a></li>
+<li><a href='#' title='Disclaimer'>Disclaimer</a></li>
+<li><a href='/p/sitemap.html' title='Daftar Isi Blog'>Sitemap</a></li>
+</ul>
+</div>
+<div class='footer-menu'>
+<h3>Web Tools</h3>
+<ul class='footer2 line'>
+<li><a href='#' title='CSS Minifier'>CSS Minifier</a></li>
+<li><a href='#' title='HTML Converter'>HTML Converter</a></li>
+<li><a href='#' title='Privacy Policy'>Privacy Policy</a></li>
+<li><a href='#' title='Terms of Service'>Terms of Service</a></li>
+</ul>
+</div>
+<div class='footer-menu' id='subscribe-footer'>
+<h3>Newsletter</h3>
+<p>Subscribe here to receive new updates</p>
+<div class='emailfooter'>
+<form action='http://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open(&#39;http://feedburner.google.com/fb/a/mailverify?uri=csearlina&#39;, &#39;popupwindow&#39;, &#39;scrollbars=yes,width=550,height=520&#39;);return true' target='popupwindow'>
+<input name='email' onblur='if (this.value == "") {this.value = "Email address";}' onfocus='if (this.value == "Email address") {this.value = "";}' type='text' value='Email address'/>
+<input name='uri' type='hidden' value='csearlina'/>
+<input name='loc' type='hidden' value='en_US'/>
+<input class='submitfooter' type='submit' value='Submit'/>
+</form>
+</div>
+</div>
+</div>
+<div id='footer-end'>
+<div class='hypecredit'>
+Copyright &#169; <span id='current-year'></span>
+<a href='http://csearlina.blogspot.co.id/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>New Line</span></a> All Right Reserved
+</div>
+<div class='hypecredit'>
+New Line Responsive Blogger Template
+</div>
+<div class='contact-trigger'>Contact Us</div>
+</div>
+</footer>
+<div class='mask'></div>
+<div class='contact-popup section' id='contact-popup'><div class='widget ContactForm' data-version='1' id='ContactForm1'>
+<span class='closepopup'>X</span>
+<h2 class='title'>Contact Form</h2>
+<div class='contact-form-widget'>
+<div class='form'>
+<form name='contact-form'>
+<p></p>
+Name
+<br/>
+<input class='contact-form-name' id='ContactForm1_contact-form-name' name='name' size='30' type='text' value=''/>
+<p></p>
+Email
+<span style='font-weight: bolder;'>*</span>
+<br/>
+<input class='contact-form-email' id='ContactForm1_contact-form-email' name='email' size='30' type='text' value=''/>
+<p></p>
+Message
+<span style='font-weight: bolder;'>*</span>
+<br/>
+<textarea class='contact-form-email-message' cols='25' id='ContactForm1_contact-form-email-message' name='email-message' rows='5'></textarea>
+<p></p>
+<input class='contact-form-button contact-form-button-submit' id='ContactForm1_contact-form-submit' type='button' value='Send'/>
+<p></p>
+<div style='text-align: center; max-width: 100%; width: 100%'>
+<p class='contact-form-error-message' id='ContactForm1_contact-form-error-message'></p>
+<p class='contact-form-success-message' id='ContactForm1_contact-form-success-message'></p>
+</div>
+</form>
+</div>
+</div>
+</div></div>
+<div class='backtotop hider'></div>
+<script type='text/javascript'>
+var disqus_shortname = "newline90";
+!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//"+disqus_shortname+".disqus.com/blogger_index.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}();
+</script>
+<script type='text/javascript'>
+function getCurrentYear(){var e=new Date;return e.getFullYear()}el=document.getElementById("current-year"),el.innerHTML=getCurrentYear();
+$(function(){$(window).scroll(function(){$(this).scrollTop()>400?$(".backtotop").addClass('showe'):$(".backtotop").removeClass('showe')}),$(".backtotop").click(function(){return $("html,body").animate({scrollTop:0},400),!1})});
+//<![CDATA[
+var _0x43a7=["\x4A\x61\x6E","\x46\x65\x62","\x4D\x61\x72","\x41\x70\x72","\x4D\x61\x79","\x4A\x75\x6E","\x4A\x75\x6C","\x41\x75\x67","\x53\x65\x70","\x4F\x63\x74","\x4E\x6F\x76","\x44\x65\x63","\x73\x75\x62\x73\x74\x72\x69\x6E\x67","\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x72\x65\x63\x65\x6E\x74\x64\x61\x74\x65\x22\x3E","\x20","\x3C\x2F\x73\x70\x61\x6E\x3E","\x6C\x65\x6E\x67\x74\x68","\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x27\x61\x75\x74\x68\x6F\x72\x6E\x61\x6D\x65\x27\x3E","\x24\x74","\x6E\x61\x6D\x65","\x64\x61\x74\x61\x2D\x64\x6F\x6D\x61\x69\x6E","\x61\x74\x74\x72","\x68\x74\x74\x70\x3A\x2F\x2F","\x2F\x66\x65\x65\x64\x73\x2F\x70\x6F\x73\x74\x73\x2F\x73\x75\x6D\x6D\x61\x72\x79\x2F\x3F\x6D\x61\x78\x2D\x72\x65\x73\x75\x6C\x74\x73\x3D\x34\x26\x61\x6C\x74\x3D\x6A\x73\x6F\x6E\x2D\x69\x6E\x2D\x73\x63\x72\x69\x70\x74","\x3C\x75\x6C\x20\x63\x6C\x61\x73\x73\x3D\x22\x72\x65\x63\x65\x6E\x74\x2D\x70\x6F\x73\x74\x2D\x61\x72\x6C\x69\x6E\x61\x22\x3E\x3C\x2F\x75\x6C\x3E","\x61\x70\x70\x65\x6E\x64","\x47\x45\x54","\x61\x70\x70\x6C\x69\x63\x61\x74\x69\x6F\x6E\x2F\x6A\x73\x6F\x6E","\x6A\x73\x6F\x6E\x70","\x65\x6E\x74\x72\x79","\x66\x65\x65\x64","\x6C\x69\x6E\x6B","\x61\x6C\x74\x65\x72\x6E\x61\x74\x65","\x72\x65\x6C","\x68\x72\x65\x66","\x73\x37\x32\x2D\x63","\x72\x65\x70\x6C\x61\x63\x65","\x75\x72\x6C","\x6D\x65\x64\x69\x61\x24\x74\x68\x75\x6D\x62\x6E\x61\x69\x6C","","\x73\x75\x62\x73\x74\x72","\x73\x75\x6D\x6D\x61\x72\x79","\x74\x69\x74\x6C\x65","\x70\x75\x62\x6C\x69\x73\x68\x65\x64","\x61\x75\x74\x68\x6F\x72","\x3C\x6C\x69\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22","\x22\x20\x74\x69\x74\x6C\x65\x3D\x22\x22\x20\x61\x6C\x74\x3D\x22\x22\x20\x77\x69\x64\x74\x68\x3D\x22\x37\x32\x22\x20\x68\x65\x69\x67\x68\x74\x3D\x22\x37\x32\x22\x2F\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x63\x6F\x6E\x74\x65\x6E\x74\x22\x3E\x3C\x68\x33\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x3E","\x3C\x2F\x61\x3E\x3C\x2F\x68\x33\x3E\x3C\x70\x3E","\x2E\x2E\x2E\x3C\x2F\x70\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x72\x65\x63\x65\x6E\x74\x2D\x6D\x65\x74\x61\x2D\x64\x61\x74\x61\x22\x3E","\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x6C\x69\x3E","\x75\x6C\x2E\x72\x65\x63\x65\x6E\x74\x2D\x70\x6F\x73\x74\x2D\x61\x72\x6C\x69\x6E\x61","\x66\x69\x6E\x64","\x61\x6A\x61\x78","\x65\x61\x63\x68","\x2E\x64\x61\x66\x74\x61\x72\x2D\x72\x65\x63\x65\x6E\x74\x2D\x70\x6F\x73\x74","\x68\x74\x74\x70\x3A\x2F\x2F\x63\x73\x65\x61\x72\x6C\x69\x6E\x61\x2E\x62\x6C\x6F\x67\x73\x70\x6F\x74\x2E\x63\x6F\x6D","\x2F\x66\x65\x65\x64\x73\x2F\x70\x6F\x73\x74\x73\x2F\x64\x65\x66\x61\x75\x6C\x74\x3F\x61\x6C\x74\x3D\x6A\x73\x6F\x6E\x2D\x69\x6E\x2D\x73\x63\x72\x69\x70\x74\x26\x61\x6D\x70\x3B\x6D\x61\x78\x2D\x72\x65\x73\x75\x6C\x74\x73\x3D","\x67\x65\x74","\x73\x6C\x69\x64\x65\x44\x6F\x77\x6E","\x23\x72\x65\x63\x65\x6E\x74\x62\x72\x65\x61\x6B\x69\x6E\x67\x20\x75\x6C","\x61\x70\x70\x65\x6E\x64\x54\x6F","\x73\x6C\x69\x64\x65\x55\x70","\x23\x72\x65\x63\x65\x6E\x74\x62\x72\x65\x61\x6B\x69\x6E\x67\x20\x6C\x69\x3A\x66\x69\x72\x73\x74","\x3C\x75\x6C\x3E","\x3C\x6C\x69\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x20\x74\x61\x72\x67\x65\x74\x3D\x22\x5F\x62\x6C\x61\x6E\x6B\x22\x3E","\x3C\x2F\x61\x3E\x3C\x2F\x6C\x69\x3E","\x3C\x2F\x75\x6C\x3E","\x68\x74\x6D\x6C","\x23\x72\x65\x63\x65\x6E\x74\x62\x72\x65\x61\x6B\x69\x6E\x67","\x3C\x73\x70\x61\x6E\x3E\x4E\x6F\x20\x72\x65\x73\x75\x6C\x74\x21\x3C\x2F\x73\x70\x61\x6E\x3E","\x3C\x73\x74\x72\x6F\x6E\x67\x3E\x45\x72\x72\x6F\x72\x20\x4C\x6F\x61\x64\x69\x6E\x67\x20\x46\x65\x65\x64\x21\x3C\x2F\x73\x74\x72\x6F\x6E\x67\x3E","\x72\x65\x61\x64\x79","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x27\x77\x69\x64\x67\x65\x74\x2D\x74\x69\x74\x6C\x65\x27\x2F\x3E","\x77\x72\x61\x70","\x23\x73\x69\x64\x65\x62\x61\x72\x2D\x77\x72\x61\x70\x70\x65\x72\x20\x2E\x77\x69\x64\x67\x65\x74\x20\x68\x32\x2C\x23\x73\x74\x69\x63\x6B\x79\x2D\x73\x69\x64\x65\x20\x68\x32\x2C\x23\x73\x69\x64\x65\x62\x61\x72\x2D\x77\x72\x61\x70\x70\x65\x72\x20\x2E\x77\x69\x64\x67\x65\x74\x2D\x74\x69\x74\x6C\x65\x20\x68\x33","\x61\x63\x74\x69\x76\x65","\x61\x64\x64\x43\x6C\x61\x73\x73","\x2E\x6D\x61\x73\x6B\x2C\x2E\x63\x6F\x6E\x74\x61\x63\x74\x2D\x70\x6F\x70\x75\x70","\x63\x6C\x69\x63\x6B","\x2E\x63\x6F\x6E\x74\x61\x63\x74\x2D\x74\x72\x69\x67\x67\x65\x72","\x72\x65\x6D\x6F\x76\x65\x43\x6C\x61\x73\x73","\x73\x70\x61\x6E\x2E\x63\x6C\x6F\x73\x65\x70\x6F\x70\x75\x70"];function getmeta(_0x7febx2){var _0x7febx3= new Array;_0x7febx3[1]=_0x43a7[0],_0x7febx3[2]=_0x43a7[1],_0x7febx3[3]=_0x43a7[2],_0x7febx3[4]=_0x43a7[3],_0x7febx3[5]=_0x43a7[4],_0x7febx3[6]=_0x43a7[5],_0x7febx3[7]=_0x43a7[6],_0x7febx3[8]=_0x43a7[7],_0x7febx3[9]=_0x43a7[8],_0x7febx3[10]=_0x43a7[9],_0x7febx3[11]=_0x43a7[10],_0x7febx3[12]=_0x43a7[11];var _0x7febx4=_0x7febx2[_0x43a7[12]](0,4),_0x7febx5=_0x7febx2[_0x43a7[12]](5,7),_0x7febx6=_0x7febx2[_0x43a7[12]](8,10),_0x7febx7=_0x43a7[13]+_0x7febx3[parseInt(_0x7febx5,10)]+_0x43a7[14]+_0x7febx6+_0x43a7[14]+_0x7febx4+_0x43a7[15];return _0x7febx7;}function getauthor(_0x7febx2){for(var _0x7febx3=0;_0x7febx3<_0x7febx2[_0x43a7[16]];_0x7febx3++){var _0x7febx4=_0x43a7[17]+_0x7febx2[_0x7febx3][_0x43a7[19]][_0x43a7[18]]+_0x43a7[15]};return _0x7febx4;}$(_0x43a7[55])[_0x43a7[54]](function(){var _0x7febx2=$(this)[_0x43a7[21]](_0x43a7[20]),_0x7febx3=_0x43a7[22]+_0x7febx2+_0x43a7[23],_0x7febx4=$(this);_0x7febx4[_0x43a7[25]](_0x43a7[24]),$[_0x43a7[53]]({type:_0x43a7[26],url:_0x7febx3,async:!1,contentType:_0x43a7[27],dataType:_0x43a7[28],success:function(_0x7febx2){for(var _0x7febx3=0;_0x7febx3<_0x7febx2[_0x43a7[30]][_0x43a7[29]][_0x43a7[16]];_0x7febx3++){for(var _0x7febx5=0;_0x7febx5<_0x7febx2[_0x43a7[30]][_0x43a7[29]][_0x7febx3][_0x43a7[31]][_0x43a7[16]];_0x7febx5++){if(_0x43a7[32]==_0x7febx2[_0x43a7[30]][_0x43a7[29]][_0x7febx3][_0x43a7[31]][_0x7febx5][_0x43a7[33]]){var _0x7febx6=_0x7febx2[_0x43a7[30]][_0x43a7[29]][_0x7febx3][_0x43a7[31]][_0x7febx5][_0x43a7[34]];break ;}};try{var _0x7febx7=_0x7febx2[_0x43a7[30]][_0x43a7[29]][_0x7febx3][_0x43a7[38]][_0x43a7[37]][_0x43a7[36]](_0x43a7[35],_0x43a7[35])}catch(i){var _0x7febx7=_0x43a7[39]};var _0x7febx9=_0x7febx2[_0x43a7[30]][_0x43a7[29]][_0x7febx3],_0x7febxa=_0x7febx9[_0x43a7[41]][_0x43a7[18]][_0x43a7[40]](0,140),_0x7febxb=_0x7febx2[_0x43a7[30]][_0x43a7[29]][_0x7febx3][_0x43a7[42]][_0x43a7[18]],_0x7febxc=_0x7febx9[_0x43a7[43]][_0x43a7[18]],_0x7febxd=getauthor(_0x7febx9[_0x43a7[44]]),_0x7febxe=getmeta(_0x7febxc),_0x7febxf=_0x43a7[45]+_0x7febx7+_0x43a7[46]+_0x7febx6+_0x43a7[47]+_0x7febxb+_0x43a7[48]+_0x7febxa+_0x43a7[49]+_0x7febxe+_0x7febxd+_0x43a7[50];_0x7febx4[_0x43a7[52]](_0x43a7[51])[_0x43a7[25]](_0x7febxf);}}});});$(document)[_0x43a7[73]](function(){var _0x7febx2=_0x43a7[56],_0x7febx3=10;$[_0x43a7[53]]({url:_0x43a7[39]+_0x7febx2+_0x43a7[57]+_0x7febx3,type:_0x43a7[58],dataType:_0x43a7[28],success:function(_0x7febx2){function _0x7febx3(){$(_0x43a7[63])[_0x43a7[62]](function(){$(this)[_0x43a7[61]]($(_0x43a7[60]))[_0x43a7[59]]()})}var _0x7febx6,_0x7febx5,_0x7febx4=_0x43a7[39],_0x7febx10=_0x7febx2[_0x43a7[30]][_0x43a7[29]];if(void(0)!==_0x7febx10){_0x7febx4=_0x43a7[64];for(var _0x7febxa=0;_0x7febxa<_0x7febx10[_0x43a7[16]];_0x7febxa++){for(var _0x7febx7=0;_0x7febx7<_0x7febx10[_0x7febxa][_0x43a7[31]][_0x43a7[16]];_0x7febx7++){if(_0x43a7[32]==_0x7febx10[_0x7febxa][_0x43a7[31]][_0x7febx7][_0x43a7[33]]){_0x7febx6=_0x7febx10[_0x7febxa][_0x43a7[31]][_0x7febx7][_0x43a7[34]];break ;}};_0x7febx5=_0x7febx10[_0x7febxa][_0x43a7[42]][_0x43a7[18]],_0x7febx4+=_0x43a7[65]+_0x7febx6+_0x43a7[66]+_0x7febx5+_0x43a7[67];};_0x7febx4+=_0x43a7[68],$(_0x43a7[70])[_0x43a7[69]](_0x7febx4),setInterval(function(){_0x7febx3()},5e3);}else {$(_0x43a7[70])[_0x43a7[69]](_0x43a7[71])};},error:function(){$(_0x43a7[70])[_0x43a7[69]](_0x43a7[72])}});});$(_0x43a7[76])[_0x43a7[75]](_0x43a7[74]);$(function(){$(_0x43a7[81])[_0x43a7[80]](function(){$(_0x43a7[79])[_0x43a7[78]](_0x43a7[77])}),$(_0x43a7[83])[_0x43a7[80]](function(){$(_0x43a7[79])[_0x43a7[82]](_0x43a7[77])})});
+//]]>
+</script>
+<script type='text/javascript'>
+/*<![CDATA[*/
+var postperpage=7;var numshowpage=3;var upPageWord ='Prev';var downPageWord ='Next';var urlactivepage=location.href;var home_page="/";
+/*]]>*/
+</script>
+<script src='https://cdn.rawgit.com/Arlina-Design/redvision/master/unlipage.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/455585668-widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5pqPtF93VNUxFzNq89Ol8i6ylU2A:1475746443630';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d3010081114343522120','//csearlina.blogspot.co.id/','3010081114343522120');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '3010081114343522120', 'bloggerUrl': 'https://www.blogger.com', 'title': 'New Line', 'pageType': 'index', 'url': 'http://csearlina.blogspot.co.id/', 'canonicalUrl': 'http://csearlina.blogspot.com/', 'homepageUrl': 'http://csearlina.blogspot.co.id/', 'searchUrl': 'http://csearlina.blogspot.co.id/search', 'canonicalHomepageUrl': 'http://csearlina.blogspot.com/', 'blogspotFaviconUrl': 'http://csearlina.blogspot.co.id/favicon.ico', 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'useUniversalAnalytics': false, 'pageName': '', 'pageTitle': 'New Line', 'metaDescription': 'New Line Responsive Blogger Template', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22New Line - Atom\x22 href\x3d\x22http://csearlina.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22New Line - RSS\x22 href\x3d\x22http://csearlina.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22New Line - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/3010081114343522120/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '', 'mobileHeadScript': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/a60a78fc1a41d76a', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}}}, {'name': 'features', 'data': {'widgetVisibility': true}}, {'name': 'messages', 'data': {'linkCopiedToClipboard': 'Link copied to clipboard!', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'New Line', 'description': 'New Line Responsive Blogger Template', 'url': 'http://csearlina.blogspot.co.id/', 'type': 'feed', 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isSearch': false}}]);
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList215', 'header-sosmed', null, document.getElementById('LinkList215'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'headerdua', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2417748278-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML73', 'sidebar', null, document.getElementById('HTML73'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'sidebar', null, document.getElementById('Label2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'contact-popup', null, document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Sending...', 'contactFormMessageSentMsg': 'Your message has been sent.', 'contactFormMessageNotSentMsg': 'Message could not be sent. Please try again later.', 'contactFormInvalidEmailMsg': 'A valid email address is required.', 'contactFormEmptyMessageMsg': 'Message field cannot be empty.', 'title': 'Contact Form', 'blogId': '3010081114343522120', 'contactFormNameMsg': 'Name', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Message', 'contactFormSendMsg': 'Send', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
+</script>
+</body>
+</HTML>
